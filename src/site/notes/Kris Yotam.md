@@ -3,8 +3,3 @@
 ---
 
 ---
-
----
-dg-home: true
-dg-public: true
----
